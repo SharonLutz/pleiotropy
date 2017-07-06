@@ -1,0 +1,14 @@
+Package: pleiotropy
+Type: Package
+Title: This Package Tests For Pleiotropy
+Version: 1.0
+Date: 2016-09-06
+Author: Sharon Lutz, Annie Thwing
+Maintainer: Annie Thwing <annie.thwing@ucdenver.edu>
+Description: This package provides two approaches to formally test for pleiotropy
+    with a single SNP (pleiotropySNP) or a region (pleiotropyGENE). These
+    approaches depend on permuting the phenotypes of interest and
+    comparing the set of observed p-values to the set of permuted p-values
+    in relation to the origin (e.g. a vector of zeros) either using the
+    Hausdorff metric or a cut-off based approach.
+License: GPL-2
