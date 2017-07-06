@@ -6,7 +6,7 @@ The pleiotropy R package provides two approaches to formally test for pleiotropy
 install.packages("devtools") # devtools must be installed first
 install.packages("SKAT") # SKAT must be installed first
 
-devtools::install_github("SharonLutz/software/pleiotropy")
+devtools::install_github("SharonLutz/pleiotropy")
 ```
 #### Example 1
 For a given SNP (i.e. X), one can test if this SNP is associated with 2 normally distributed phenotypes (i.e. Y) adjusting for one covariate (i.e. Z) in the given example dataset called dataS. The code below runs this analysis.
