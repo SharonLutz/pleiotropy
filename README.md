@@ -63,3 +63,5 @@ As stated in the paper, the cut-off based approach is more robust and should be 
 
 #### Reference
 **Lutz SM**, Fingerlin T, John E Hokanson, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
+
+
