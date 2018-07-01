@@ -36,6 +36,7 @@ $hausdorffPvalue
 ## Example 2
 For a given gene or collection of SNPs (i.e. X), one can test if this region is associated with 2 normally distributed phenotypes (i.e. Y) adjusting for one covariate (i.e. Z) in the given example dataset called dataG. The code below runs this analysis. 
 
+
 ```
 library(pleiotropy)
 ?pleiotropyGENE # For details on how to use this function to test for pleiotropy with a gene
