@@ -1,5 +1,5 @@
 ## Pleiotropy
-The pleiotropy R package provides two approaches to formally test for pleiotropy with a single SNP (pleiotropySNP) or a region (pleiotropyGENE). These approaches depend on permuting the genetic region of interest and comparing the set of observed p-values to the set of permuted p-values in relation to the origin either using the Hausdorff metric or a cut-off based approach.
+The pleiotropy R package provides two approaches to formally test for pleiotropy with a single SNP (pleiotropySNP) or a region (pleiotropyGENE). These approaches depend on permuting the genetic region of interest and comparing the set of observed p-values to the set of permuted p-values in relation to the origin either using the Hausdorff metric or a cut-off based approach. As stated in the paper referenced below, the cut-off based approach is more robust and should be used over the Hausdorff based approach if there is any disagreement.
 
 ## Installation
 ```
