@@ -63,5 +63,4 @@ $hausdorffPvalue
 As stated in the paper, the cut-off based approach is more robust and should be used over the Hausdorff based approach if there is any disagreement.
 
 ## Reference
-**Lutz SM**, Fingerlin T, John E Hokanson, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170.
-
+**Lutz SM**, Fingerlin T, John E Hokanson, Lange C. (2016) A General Approach to Testing for Pleiotropy with Rare and Common Variants. *Genetic Epidemiology*. 41(2):163-170
